@@ -3,6 +3,10 @@
     '@nuxt/content'
   ],
   content: {
-    // Options
+    dir: 'content',
+    apiPrefix: 'content',
+    fullTextSearchFields: [ 'title', 'tags', 'description', 'text', 'slug'],
+    liveEdit: true,
+    markdown:
   }
 }
