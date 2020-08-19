@@ -1,0 +1,23 @@
+{
+  "name": "data",
+  "version": "0.0.1",
+  "description": "promnesia explorer",
+  "main": "index.js",
+  "dependencies": {
+    "@nuxt/content": "^1.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tg-z/data.git"
+  },
+  "author": "tg-z <parasitism@protonmail.com> (https://pond.pet)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tg-z/data/issues"
+  },
+  "homepage": "https://github.com/tg-z/data#readme"
+}
