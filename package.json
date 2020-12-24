@@ -1,20 +1,13 @@
 {
   "name": "data",
   "version": "0.0.1",
-  "description": "takeout explorer",
+  "description": "takeout data helper",
   "main": "index.js",
-  "dependencies": {
-    "@nuxt/content": "^1.6.1",
-    "@nuxt/content-theme-docs": "^0.1.3",
-    "nuxt": "2.14.0"
-  },
+  "dependencies": {},
   "devDependencies": {},
   "scripts": {
-    "test": "node start",
-    "dev": "nuxt",
-    "build": "nuxt build",
-    "start": "nuxt start",
-    "generate": "nuxt generate"
+    "test": "npm test",
+    "run": "node index.js"
   },
   "repository": {
     "type": "git",
