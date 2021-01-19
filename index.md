@@ -45,7 +45,7 @@ and submit a pull request.
 | <img alt="" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg" width="12"> Spotify | ok | ok | [View docs →]() |
 | <img alt="" src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Cib-tiktok_%28CoreUI_Icons_v1.0.0%29.svg" width="12"> Tiktok | ok | ok | [View docs →]() |
 | <img alt="" src="https://upload.wikimedia.org/wikipedia/commons/4/43/Vkontakte_PNG19.png" width="12"> Vkontakte | ok | ok | [View docs →]() |
-| <img alt="" src="https://upload.wikimedia.org/wikipedia/commons/8/80/Evernote_Icon.svg" width="12"> Evernote | ok | ok | [View docs →]() |
+| <img alt="" src="https://github.com/FortAwesome/Font-Awesome/raw/master/svgs/brands/evernote.svg" width="12"> Evernote | ok | ok | [View docs →]() |
 | <img alt="" src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Twitch_Glitch_Logo_Purple.svg" width="12"> Twitch | ok | ok | [View docs →]() |
 | <img alt="" src="" width="12"> Tiktok | ok | ok | [View docs →]() |
 | <img alt="" src="" width="12"> Tiktok | ok | ok | [View docs →]() |
