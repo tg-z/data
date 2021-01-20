@@ -55,7 +55,7 @@ and submit a pull request.
 | <img alt="" src="" width="12"> Amazon | ok | ok | [View docs →]() |
 | <img alt="" src="https://upload.wikimedia.org/wikipedia/commons/4/41/Pinterestlogo.png" width="12"> Pinterest | ok | ok | [View docs →]() |
 | <img alt="" src="https://upload.wikimedia.org/wikipedia/commons/a/a2/Antu_soundcloud.svg" width="12"> Soundcloud | ok | ok | [View docs →]() |
-| <img alt="" src="" width="12"> Telegram | ok | ok | [View docs →]() |
+| <img alt="" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="12"> Telegram | ok | ok | [View docs →]() |
 
 
 <!-- prettier-ignore-end -->
