@@ -13,7 +13,6 @@ and submit a pull request.
 
 ## Services supporting takeout
 
-<!-- prettier-ignore-start -->
 | Service | API | Sample data | Docs |
 | ------- | --- | ----------- | ---- |
 | <img alt="" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_lastfm-512.png" width="12"> Last.fm | ok | ok | [View docs →]() |
@@ -38,11 +37,8 @@ and submit a pull request.
 | <img alt="" src="" width="12"> Fitbit | ok | ok | [View docs →]() |
 
 
-<!-- prettier-ignore-end -->
-
 ## Services that don't support takeout
 
-<!-- prettier-ignore-start -->
 | Service | API | Sample data | Docs |
 | ------- | --- | ----------- | ---- |
 | <img alt="" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg" width="12"> Spotify | ok | ok | [View docs →]() |
@@ -57,8 +53,6 @@ and submit a pull request.
 | <img alt="" src="https://upload.wikimedia.org/wikipedia/commons/a/a2/Antu_soundcloud.svg" width="12"> Soundcloud | ok | ok | [View docs →]() |
 | <img alt="" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="12"> Telegram | ok | ok | [View docs →]() |
 
-
-<!-- prettier-ignore-end -->
 
 ## Third-party tools for data takeout
 
