@@ -1,2 +1,3 @@
 exclude: [CNAME, README.md, .gitignore, vendor, package.json]
 markdown: kramdown
+destination: docs
