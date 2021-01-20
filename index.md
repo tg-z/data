@@ -17,8 +17,8 @@ and submit a pull request.
 | ------- | --- | ----------- | ---- |
 | <img alt="" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_lastfm-512.png" width="12"> Last.fm | ok | ok | [View docs →]() |
 | <img alt="" src="https://cdn.worldvectorlogo.com/logos/wakatime.svg" width="12"> Wakatime | ok | ok | [View docs →](https://wakatime.com/faq#exporting) |
-| <img alt="" src="https://images.weserv.nl/?url=https://icon-library.com/images/goodreads-icon/goodreads-icon-14.jpg&w=64&h=64&fit=cover&mask=circle" width="12"> Goodreads | ok | ok | [View docs →](https://www.goodreads.com/) |
-| <img alt="" src="https://maxcdn.icons8.com/Share/icon/Logos/google_logo1600.png" width="12"> Google | ok | ok | [View docs →]() |
+| <img alt="" src="https://images.weserv.nl/?url=https://icon-library.com/images/goodreads-icon/goodreads-icon-14.jpg&w=64&h=64&fit=cover&mask=circle" width="12"> Goodreads | ok | ok | [View docs →](https://www.goodreads.com/dsar/user/) |
+| <img alt="" src="https://maxcdn.icons8.com/Share/icon/Logos/google_logo1600.png" width="12"> Google | ok | ok | [View docs →](https://takeout.google.com/) |
 | <img alt="" src="https://upload.wikimedia.org/wikipedia/en/9/9f/Twitter_bird_logo_2012.svg" width="12"> Twitter | ok | [View data](https://help.twitter.com/en/managing-your-account/accessing-your-twitter-data) | [View docs →](https://help.twitter.com/en/managing-your-account/how-to-download-your-twitter-archive) |
 | <img alt="" src="https://static.wikia.nocookie.net/logopedia/images/b/b8/Snapchat_2019.svg/revision/latest/scale-to-width-down/200?cb=20190909124609" width="12"> Snapchat | ok | ok | [View docs →](https://support.snapchat.com/en-US/a/download-my-data) |
 | <img alt="" src="https://upload.wikimedia.org/wikipedia/commons/3/32/VSCO_Seal.svg" width="12"> VSCO | ok | ok | [View docs →](https://support.vsco.co/hc/en-us/articles/360052896671-How-do-I-access-a-copy-of-my-personal-data-on-VSCO-) |
@@ -27,14 +27,16 @@ and submit a pull request.
 | <img alt="" src="https://upload.wikimedia.org/wikipedia/commons/1/18/Periscope_Logo.svg" width="12"> Periscope | ok | [View Data](https://www.pscp.tv/account/your-data) | [View docs →](https://help.twitter.com/en/using-twitter/manage-periscope-account) |
 | <img alt="" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" width="12"> Facebook | ok | [View information](https://www.facebook.com/help/1700142396915814?helpref=faq_content) | [View docs →](https://www.facebook.com/help/1701730696756992) |
 | <img alt="" src="https://upload.wikimedia.org/wikipedia/commons/5/58/Instagram-Icon.png" width="12"> Instagram | ok | [View data](https://www.instagram.com/accounts/access_tool/) | [View docs →](https://help.instagram.com/181231772500920?helpref=uf_permalink) |
-| <img alt="" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" width="12"> Dev.to | ok | ok | [View docs →]() |
+| <img alt="" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" width="12"> Dev.to | ok | ok | [View docs →](https://dev.to/settings/account) |
 | <img alt="" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" width="12"> Notion | ok | ok | [View docs →](https://www.notion.so/Help-Support-e040febf70a94950b8620e6f00005004) |
-| <img alt="" src="https://raw.githubusercontent.com/Pocket/extension-save-to-pocket/master/public/images/icon-32.png" width="12"> Pocket | ok | ok | [View docs →]() |
+| <img alt="" src="https://raw.githubusercontent.com/Pocket/extension-save-to-pocket/master/public/images/icon-32.png" width="12"> Pocket | ok | ok | [View docs →](https://help.getpocket.com/article/1015-exporting-your-pocket-list) |
 | <img alt="" src="https://alternativesoft.info/icons/workflowy.png" width="12"> Workflowy | ok | ok | [View docs →](https://workflowy.zendesk.com/hc/en-us/articles/202610369-How-to-export-or-copy-content-from-Workflowy) |
 | <img alt="" src="https://upload.wikimedia.org/wikipedia/commons/7/78/Dropbox_Icon.svg" width="12"> Dropbox | ok | ok | [View docs →]() |
 | <img alt="" src="https://cdn.freebiesupply.com/logos/large/2x/mega-icon-logo-png-transparent.png" width="12"> Mega | ok | ok | [View docs →]() |
 | <img alt="" src="https://www.redditinc.com/assets/images/site/reddit-logo.png" width="12"> Reddit | ok | ok | [View docs →](https://reddit.zendesk.com/hc/en-us/articles/360043048352-How-do-I-request-a-copy-of-my-Reddit-data-and-information-) |
-| <img alt="" src="" width="12"> Fitbit | ok | ok | [View docs →]() |
+| <img alt="" src="https://upload.wikimedia.org/wikipedia/commons/a/a3/Fitbit_logo16.svg" width="12"> Fitbit | ok | ok | [View docs →](https://help.fitbit.com/articles/en_US/Help_article/1133.htm) |
+| <img alt="" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Tumblr_icon.png" width="12"> Tumblr | ok | ok | [View docs →](https://tumblr.zendesk.com/hc/en-us/articles/360005118894-Export-your-blog) |
+
 
 
 ## Services that don't support takeout
@@ -51,7 +53,7 @@ and submit a pull request.
 | <img alt="" src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" width="12"> Amazon | ok | ok | [View docs →]() |
 | <img alt="" src="https://upload.wikimedia.org/wikipedia/commons/4/41/Pinterestlogo.png" width="12"> Pinterest | ok | ok | [View docs →]() |
 | <img alt="" src="https://upload.wikimedia.org/wikipedia/commons/a/a2/Antu_soundcloud.svg" width="12"> Soundcloud | ok | ok | [View docs →]() |
-| <img alt="" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="12"> Telegram | ok | ok | [View docs →]() |
+| <img alt="" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="12"> Telegram | ok | ok | [View docs →](https://www.telegram.org/blog/export-and-more) |
 
 
 ## Third-party tools for data takeout
