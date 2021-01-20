@@ -44,11 +44,11 @@ and submit a pull request.
 | Service | API | Sample data | Docs |
 | ------- | --- | ----------- | ---- |
 | <img alt="" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg" width="12"> Spotify | ok | ok | [View docs →](https://community.spotify.com/t5/forums/searchpage/tab/message?q=export&collapse_discussion=true) |
-| <img alt="" src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Cib-tiktok_%28CoreUI_Icons_v1.0.0%29.svg" width="12"> Tiktok | ok | ok | [View docs →]() |
+| <img alt="" src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Cib-tiktok_%28CoreUI_Icons_v1.0.0%29.svg" width="12"> Tiktok | ok | ok | [View docs →](https://www.tiktok.com/?lang=en) |
 | <img alt="" src="https://upload.wikimedia.org/wikipedia/commons/4/43/Vkontakte_PNG19.png" width="12"> Vkontakte | ok | ok | [View docs →](https://vk.com/about) |
-| <img alt="" src="https://github.com/FortAwesome/Font-Awesome/raw/master/svgs/brands/evernote.svg" width="12"> Evernote | ok | ok | [View docs →]() |
+| <img alt="" src="https://github.com/FortAwesome/Font-Awesome/raw/master/svgs/brands/evernote.svg" width="12"> Evernote | ok | ok | [View docs →](https://help.evernote.com/hc/en-us/articles/209005557-How-to-back-up-export-and-restore-import-notes-and-notebooks) |
 | <img alt="" src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Twitch_Glitch_Logo_Purple.svg" width="12"> Twitch | ok | ok | [View docs →](https://www.twitch.tv/settings/profile) |
-| <img alt="" src="https://seeklogo.com/images/M/mediafire-logo-8057F17F6B-seeklogo.com.png" width="12"> Mediafire | ok | ok | [View docs →]() |
+| <img alt="" src="https://seeklogo.com/images/M/mediafire-logo-8057F17F6B-seeklogo.com.png" width="12"> Mediafire | ok | ok | [View docs →](https://www.mediafire.com/) |
 | <img alt="" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Font_Awesome_5_brands_discord_color.svg" width="12"> Discord | ok | ok | [View docs →](https://support.discord.com/hc/en-us/community/posts/360035147072-Export-Entire-Chats) |
 | <img alt="" src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" width="12"> Amazon | ok | ok | [View docs →]() |
 | <img alt="" src="https://upload.wikimedia.org/wikipedia/commons/4/41/Pinterestlogo.png" width="12"> Pinterest | ok | ok | [View docs →](https://www.quora.com/How-can-I-export-my-all-of-my-Pinterest-pins?share=1) |
