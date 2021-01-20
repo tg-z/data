@@ -52,7 +52,7 @@ and submit a pull request.
 | <img alt="" src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Twitch_Glitch_Logo_Purple.svg" width="12"> Twitch | ok | ok | [View docs →]() |
 | <img alt="" src="https://seeklogo.com/images/M/mediafire-logo-8057F17F6B-seeklogo.com.png" width="12"> Mediafire | ok | ok | [View docs →]() |
 | <img alt="" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Font_Awesome_5_brands_discord_color.svg" width="12"> Discord | ok | ok | [View docs →]() |
-| <img alt="" src="" width="12"> Amazon | ok | ok | [View docs →]() |
+| <img alt="" src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" width="12"> Amazon | ok | ok | [View docs →]() |
 | <img alt="" src="https://upload.wikimedia.org/wikipedia/commons/4/41/Pinterestlogo.png" width="12"> Pinterest | ok | ok | [View docs →]() |
 | <img alt="" src="https://upload.wikimedia.org/wikipedia/commons/a/a2/Antu_soundcloud.svg" width="12"> Soundcloud | ok | ok | [View docs →]() |
 | <img alt="" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="12"> Telegram | ok | ok | [View docs →]() |
