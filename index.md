@@ -31,8 +31,8 @@ and submit a pull request.
 | <img alt="" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" width="12"> Notion | ok | ok | [View docs →](https://www.notion.so/Help-Support-e040febf70a94950b8620e6f00005004) |
 | <img alt="" src="https://raw.githubusercontent.com/Pocket/extension-save-to-pocket/master/public/images/icon-32.png" width="12"> Pocket | ok | ok | [View docs →](https://help.getpocket.com/article/1015-exporting-your-pocket-list) |
 | <img alt="" src="https://alternativesoft.info/icons/workflowy.png" width="12"> Workflowy | ok | ok | [View docs →](https://workflowy.zendesk.com/hc/en-us/articles/202610369-How-to-export-or-copy-content-from-Workflowy) |
-| <img alt="" src="https://upload.wikimedia.org/wikipedia/commons/7/78/Dropbox_Icon.svg" width="12"> Dropbox | ok | ok | [View docs →]() |
-| <img alt="" src="https://cdn.freebiesupply.com/logos/large/2x/mega-icon-logo-png-transparent.png" width="12"> Mega | ok | ok | [View docs →]() |
+| <img alt="" src="https://upload.wikimedia.org/wikipedia/commons/7/78/Dropbox_Icon.svg" width="12"> Dropbox | ok | ok | [View docs →](https://www.dropboxforum.com/t5/forums/searchpage/tab/message?advanced=false&allow_punctuation=false&filter=location&location=category:English&q=export) |
+| <img alt="" src="https://cdn.freebiesupply.com/logos/large/2x/mega-icon-logo-png-transparent.png" width="12"> Mega | ok | ok | [View docs →](https://help.mega.nz/search.html#export) |
 | <img alt="" src="https://www.redditinc.com/assets/images/site/reddit-logo.png" width="12"> Reddit | ok | ok | [View docs →](https://reddit.zendesk.com/hc/en-us/articles/360043048352-How-do-I-request-a-copy-of-my-Reddit-data-and-information-) |
 | <img alt="" src="https://upload.wikimedia.org/wikipedia/commons/a/a3/Fitbit_logo16.svg" width="12"> Fitbit | ok | ok | [View docs →](https://help.fitbit.com/articles/en_US/Help_article/1133.htm) |
 | <img alt="" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Tumblr_icon.png" width="12"> Tumblr | ok | ok | [View docs →](https://tumblr.zendesk.com/hc/en-us/articles/360005118894-Export-your-blog) |
