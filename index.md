@@ -27,13 +27,16 @@ and submit a pull request.
 | <img alt="" src="https://cdn.glitch.com/2bdfb3f8-05ef-4035-a06e-2043962a3a13%2Ffavicon.ico" width="12"> Glitch | ok | ok | [View docs →](https://glitch.happyfox.com/kb/section/8/) |
 | <img alt="" src="https://upload.wikimedia.org/wikipedia/commons/1/18/Periscope_Logo.svg" width="12"> Periscope | ok | [View Data](https://www.pscp.tv/account/your-data) | [View docs →](https://help.twitter.com/en/using-twitter/manage-periscope-account) |
 | <img alt="" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" width="12"> Facebook | ok | [View information](https://www.facebook.com/help/1700142396915814?helpref=faq_content) | [View docs →](https://www.facebook.com/help/1701730696756992) |
-| <img alt="" src="https://upload.wikimedia.org/wikipedia/commons/5/58/Instagram-Icon.png" width="12"> Instagram | ok | [View data](https://www.instagram.com/accounts/access_tool/) | [View docs →]() |
+| <img alt="" src="https://upload.wikimedia.org/wikipedia/commons/5/58/Instagram-Icon.png" width="12"> Instagram | ok | [View data](https://www.instagram.com/accounts/access_tool/) | [View docs →](https://help.instagram.com/181231772500920?helpref=uf_permalink) |
 | <img alt="" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" width="12"> Dev.to | ok | ok | [View docs →]() |
-| <img alt="" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" width="12"> Notion | ok | ok | [View docs →]() |
+| <img alt="" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" width="12"> Notion | ok | ok | [View docs →](https://www.notion.so/Help-Support-e040febf70a94950b8620e6f00005004) |
 | <img alt="" src="https://raw.githubusercontent.com/Pocket/extension-save-to-pocket/master/public/images/icon-32.png" width="12"> Pocket | ok | ok | [View docs →]() |
 | <img alt="" src="https://alternativesoft.info/icons/workflowy.png" width="12"> Workflowy | ok | ok | [View docs →](https://workflowy.zendesk.com/hc/en-us/articles/202610369-How-to-export-or-copy-content-from-Workflowy) |
 | <img alt="" src="https://upload.wikimedia.org/wikipedia/commons/7/78/Dropbox_Icon.svg" width="12"> Dropbox | ok | ok | [View docs →]() |
 | <img alt="" src="https://cdn.freebiesupply.com/logos/large/2x/mega-icon-logo-png-transparent.png" width="12"> Mega | ok | ok | [View docs →]() |
+| <img alt="" src="https://www.redditinc.com/assets/images/site/reddit-logo.png" width="12"> Reddit | ok | ok | [View docs →](https://reddit.zendesk.com/hc/en-us/articles/360043048352-How-do-I-request-a-copy-of-my-Reddit-data-and-information-) |
+| <img alt="" src="" width="12"> Fitbit | ok | ok | [View docs →]() |
+
 
 <!-- prettier-ignore-end -->
 
@@ -47,9 +50,13 @@ and submit a pull request.
 | <img alt="" src="https://upload.wikimedia.org/wikipedia/commons/4/43/Vkontakte_PNG19.png" width="12"> Vkontakte | ok | ok | [View docs →]() |
 | <img alt="" src="https://github.com/FortAwesome/Font-Awesome/raw/master/svgs/brands/evernote.svg" width="12"> Evernote | ok | ok | [View docs →]() |
 | <img alt="" src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Twitch_Glitch_Logo_Purple.svg" width="12"> Twitch | ok | ok | [View docs →]() |
-| <img alt="" src="" width="12"> Tiktok | ok | ok | [View docs →]() |
-| <img alt="" src="" width="12"> Tiktok | ok | ok | [View docs →]() |
-| <img alt="" src="" width="12"> Tiktok | ok | ok | [View docs →]() |
+| <img alt="" src="" width="12"> Mediafire | ok | ok | [View docs →]() |
+| <img alt="" src="" width="12"> Discord | ok | ok | [View docs →]() |
+| <img alt="" src="" width="12"> Amazon | ok | ok | [View docs →]() |
+| <img alt="" src="" width="12"> Pinterest | ok | ok | [View docs →]() |
+| <img alt="" src="" width="12"> Soundcloud | ok | ok | [View docs →]() |
+| <img alt="" src="" width="12"> Telegram | ok | ok | [View docs →]() |
+
 
 <!-- prettier-ignore-end -->
 
