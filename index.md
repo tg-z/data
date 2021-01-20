@@ -36,7 +36,7 @@ and submit a pull request.
 | <img alt="" src="https://www.redditinc.com/assets/images/site/reddit-logo.png" width="12"> Reddit | https://www.reddit.com/ | [View docs →](https://reddit.zendesk.com/hc/en-us/articles/360043048352-How-do-I-request-a-copy-of-my-Reddit-data-and-information-) |
 | <img alt="" src="https://upload.wikimedia.org/wikipedia/commons/a/a3/Fitbit_logo16.svg" width="12"> Fitbit | https://www.fitbit.com/global/us/home | [View docs →](https://help.fitbit.com/articles/en_US/Help_article/1133.htm) |
 | <img alt="" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Tumblr_icon.png" width="12"> Tumblr | https://www.tumblr.com/dashboard | [View docs →](https://tumblr.zendesk.com/hc/en-us/articles/360005118894-Export-your-blog) |
-
+| <img alt="" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="12"> Telegram | https://telegram.org/ | [View docs →](https://www.telegram.org/blog/export-and-more) |
 
 
 ## Services that don't support takeout
@@ -53,7 +53,7 @@ and submit a pull request.
 | <img alt="" src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" width="12"> Amazon | https://www.amazon.com/ | [View docs →]() |
 | <img alt="" src="https://upload.wikimedia.org/wikipedia/commons/4/41/Pinterestlogo.png" width="12"> Pinterest | https://www.pinterest.com/ | [View docs →](https://www.quora.com/How-can-I-export-my-all-of-my-Pinterest-pins?share=1) |
 | <img alt="" src="https://upload.wikimedia.org/wikipedia/commons/a/a2/Antu_soundcloud.svg" width="12"> Soundcloud | https://soundcloud.com/discover | [View docs →](https://help.soundcloud.com/hc/en-us/articles/115003449287-Exporting-Insights) |
-| <img alt="" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="12"> Telegram | https://telegram.org/ | [View docs →](https://www.telegram.org/blog/export-and-more) |
+
 
 
 ## Third-party tools for data takeout
