@@ -15,7 +15,7 @@ and submit a pull request.
 
 | Service | API | Sample data | Docs |
 | ------- | --- | ----------- | ---- |
-| <img alt="" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_lastfm-512.png" width="12"> Last.fm | ok | ok | [View docs →]() |
+| <img alt="" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_lastfm-512.png" width="12"> Last.fm | ok | ok | [View docs →](https://www.last.fm/settings/account) |
 | <img alt="" src="https://cdn.worldvectorlogo.com/logos/wakatime.svg" width="12"> Wakatime | ok | ok | [View docs →](https://wakatime.com/faq#exporting) |
 | <img alt="" src="https://images.weserv.nl/?url=https://icon-library.com/images/goodreads-icon/goodreads-icon-14.jpg&w=64&h=64&fit=cover&mask=circle" width="12"> Goodreads | ok | ok | [View docs →](https://www.goodreads.com/dsar/user/) |
 | <img alt="" src="https://maxcdn.icons8.com/Share/icon/Logos/google_logo1600.png" width="12"> Google | ok | ok | [View docs →](https://takeout.google.com/) |
