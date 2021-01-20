@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# `$ data`
+# $ data
 ### Last updated: {{ 'now' | date: "%Y-%m-%d" }}
 
 Many popular services make it hard for users to export their data and switch services.
