@@ -52,7 +52,7 @@ and submit a pull request.
 | <img alt="" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Font_Awesome_5_brands_discord_color.svg" width="12"> Discord | https://discord.com/ | [View docs →](https://support.discord.com/hc/en-us/community/posts/360035147072-Export-Entire-Chats) |
 | <img alt="" src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" width="12"> Amazon | https://www.amazon.com/ | [View docs →]() |
 | <img alt="" src="https://upload.wikimedia.org/wikipedia/commons/4/41/Pinterestlogo.png" width="12"> Pinterest | https://www.pinterest.com/ | [View docs →](https://www.quora.com/How-can-I-export-my-all-of-my-Pinterest-pins?share=1) |
-| <img alt="" src="https://upload.wikimedia.org/wikipedia/commons/a/a2/Antu_soundcloud.svg" width="12"> Soundcloud | https://soundcloud.com/discover | [View docs →](https://help.soundcloud.com/hc/en-us/articles/115003449287-Exporting-Insights) |
+| <img alt="" src="https://upload.wikimedia.org/wikipedia/commons/a/a2/Antu_soundcloud.svg" width="12"> Soundcloud | https://soundcloud.com/ | [View docs →](https://help.soundcloud.com/hc/en-us/articles/115003449287-Exporting-Insights) |
 
 
 
